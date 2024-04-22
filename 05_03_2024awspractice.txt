@@ -1,0 +1,25 @@
+192.168.29.85(Preferred) private address found
+
+49.43.201.231 public address
+
+LMC-Prod-VPC-SUBNET-1
+
+LMC-PROD-Server-1
+LMC-Prod-VPC-Gateway
+LMC-Prod-VPC-Routable
+
+
+ Administrator
+Password
+ LmxqySSi1V5L0;nuBoDLs1PMevTxTTVv
+
+
+
+
+Username
+ Administrator
+Password
+ @FdDwWc7ha=QoKoO$f%Dcm7oq0dy3)OH
+
+
+these are dump details
