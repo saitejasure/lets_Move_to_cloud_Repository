@@ -11,7 +11,8 @@ terraform {
 # Provider Block
 provider "aws" {
   profile = "default" 
-  region  = "sydney region"
+  region  = "Ohio region"
+
 }
 
 #Resource Block
